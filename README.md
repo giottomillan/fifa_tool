@@ -1,9 +1,11 @@
 # fifa_tool
+![Imagen de la aplicación](/image/inicio.jpeg)
 
 ## Descripción
 
 **Football Metrics Search App** es una aplicación interactiva construida con Streamlit y Python, que permite a los usuarios buscar y visualizar métricas y perfiles de jugadores de fútbol. Los usuarios pueden buscar jugadores por nacionalidad, equipo y si están en el equipo nacional de su país.
 
+![Imagen de equipo](/image/equipo.jpeg)
 ## Características
 
 - **Búsqueda por Nacionalidad**: Encuentra jugadores de una nacionalidad específica.
@@ -57,3 +59,6 @@ football-metrics-search-app/
 │   └── Fifa 23 Players Data.csv     # Archivo CSV con datos de jugadores
 └── README.md                # Este archivo
 ```
+
+
+![Imagen de equipo](/image/venezuela_jugador.jpeg)
